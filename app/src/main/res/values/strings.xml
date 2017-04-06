@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">FirstandroidApp</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="send-value">send</string>
+    <string name="edit_message">Name</string>
+    <string name="send_value">send</string>
 </resources>
